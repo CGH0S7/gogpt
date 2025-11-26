@@ -1,4 +1,4 @@
-# gogpt
+# GoGPT
 
 A simple and lightweight command-line interface (CLI) for interacting with a chat-based Large Language Model (LLM). It is written in Go and provides a straightforward way to chat with a compatible AI model directly from your terminal, with support for streaming responses.
 
@@ -23,7 +23,7 @@ A simple and lightweight command-line interface (CLI) for interacting with a cha
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/user/gogpt.git
+    git clone https://github.com/CGH0S7/gogpt.git
     cd gogpt
     ```
 
